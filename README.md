@@ -1,6 +1,6 @@
 # Vasco da Gama - Análise de Desempenho
 
-Este projeto apresenta um **Dashboard de Análise de Desempenho do Vasco da Gama**, desenvolvido no **Power BI**, com foco na exploração estatística dos jogos, desempenho histórico da equipe, eficiência ofensiva/defensiva e padrões de resultados ao longo dos anos, no campeonato Brasileiro, de 2023 a 2024.
+Este projeto apresenta um **Dashboard de Análise de Desempenho do Vasco da Gama**, desenvolvido no **Power BI**, com foco na exploração estatística dos jogos, desempenho histórico da equipe, eficiência ofensiva/defensiva e padrões de resultados ao longo dos anos, no campeonato Brasileiro, de 2003 a 2024.
 
 O objetivo é transformar dados brutos de partidas em **insights visuais claros e estratégicos**, facilitando a compreensão do desempenho do time em diferentes contextos competitivos.
 
