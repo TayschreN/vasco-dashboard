@@ -5,11 +5,10 @@ Este projeto apresenta um **Dashboard de Análise de Desempenho do Vasco da Gama
 O objetivo é transformar dados brutos de partidas em **insights visuais claros e estratégicos**, facilitando a compreensão do desempenho do time em diferentes contextos competitivos.
 
 ---
-
-## 📊 Dashboard Preview
-
-> 📌 Insira aqui as imagens do dashboard exportadas do Power BI ou hospedadas no GitHub
-
+![Dashboard](img/Capa.jpg) 
+![Dashboard](img/Tela1.jpg)
+![Dashboard](img/Tela2.jpg)
+![Dashboard](img/Tela3.jpg)
 ---
 
 ## Objetivos:
